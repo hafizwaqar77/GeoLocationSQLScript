@@ -42,7 +42,7 @@ Each SQL file includes `INSERT` statements wrapped in SQL transactions with `TRY
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/GeoLocationSQLScript.git
+git clone https://github.com/hafizwaqar77/GeoLocationSQLScript.git
 cd GeoLocationSQLScript
 ```
 3️⃣ Run the Script
